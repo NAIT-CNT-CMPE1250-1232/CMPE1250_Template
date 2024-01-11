@@ -60,3 +60,10 @@ dkms.conf
 *.sx
 
 **/*/Standard/
+
+#visual studio
+**/.vs/
+**/Debug/
+
+#vsCode
+**/.vscode
